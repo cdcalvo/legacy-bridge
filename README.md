@@ -532,7 +532,7 @@ Presentación orientada al negocio mostrando cómo la herramienta ayuda a visual
 
 Presentación técnica detallando la arquitectura, patrones de diseño y decisiones de implementación.
 🔗 
-** [Ver Video - Recorrido Técnico](https://www.loom.com/share/783e057d8a0e4b04b4493d6db324a9bd)**
+**[Ver Video - Recorrido Técnico](https://www.loom.com/share/783e057d8a0e4b04b4493d6db324a9bd)**
 
 **Contenido:**
 
