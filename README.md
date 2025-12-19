@@ -2,7 +2,7 @@
 
 Una solución middleware moderna para integrar datos de transacciones XML de sistemas legacy hacia una base de datos PostgreSQL estructurada con categorización inteligente.
 
-**Autor:** Christian  
+**Autor:** Christian David Calvo
 **Reto:** Solutions Engineer Take-Home Challenge
 
 ---
@@ -507,4 +507,38 @@ curl -X POST http://localhost:3000/api/ingest \
 - **Parseo XML:** xml2js
 - **Contenedorización:** Docker + Docker Compose
 
+---
+
+
+##
+ 🎬 Video Walkthroughs
+
+### Video A: Demostración del Producto (Cliente)
+
+Presentación orientada al negocio mostrando cómo la herramienta ayuda a visualizar y categorizar los gastos corporativos.
+🔗 
+**[Ver Video - Demostración del Producto](https://www.loom.com/share/cbcc5c0b77ef4dfdba1a17f280c64175)**
+
+**Contenido:**
+
+- Introducción al dashboard
+- Demostración de ingesta de datos XML
+- Visualización de transacciones categorizadas
+- Uso de filtros por categoría
+- Estadísticas en tiempo real
+---
+
+### Video B: Recorrido Técnico (Ingeniería)
+
+Presentación técnica detallando la arquitectura, patrones de diseño y decisiones de implementación.
+🔗 
+** [Ver Video - Recorrido Técnico](https://www.loom.com/share/783e057d8a0e4b04b4493d6db324a9bd)**
+
+**Contenido:**
+
+- Arquitectura Clean Architecture
+- Parser XML y sanitización de datos
+- Motor de reglas extensible (Strategy Pattern)
+- Esquema de base de datos normalizado
+- Manejo de errores y flujo de ingesta
 ---
